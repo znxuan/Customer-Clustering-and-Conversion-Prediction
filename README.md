@@ -40,18 +40,18 @@ The dataset includes:
 
 ## Model Training & Evaluation
 
-### Clustering
+#### Clustering
 
-- **KMeans Clustering**: Unsupervised segmentation
-- **Elbow Method & Silhouette Score**: Optimal cluster number
+- KMeans Clustering: Unsupervised segmentation
+- Elbow Method & Silhouette Score: Optimal cluster number
 
-### Classification
+#### Classification
 
-- **Logistic Regression**
-- **Random Forest**
-- **XGBoost**
-- **Grid Search CV**: Hyperparameter tuning
-- **ROC-AUC, Precision, Recall, F1**: Model evaluation
+- Logistic Regression
+- Random Forest
+- XGBoost
+- Grid Search CV: Hyperparameter tuning
+- ROC-AUC, Precision, Recall, F1: Model evaluation
 
 ## Installation
 Clone the repository:
